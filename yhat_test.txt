@@ -2,7 +2,7 @@ top
 trouser
 pullover
 pullover
-dress
+trouser
 top
 sandal
 top
@@ -19,7 +19,7 @@ sneaker
 sneaker
 trouser
 dress
-dress
+top
 pullover
 top
 pullover
@@ -117,7 +117,7 @@ sandal
 top
 sneaker
 trouser
-top
+sandal
 top
 pullover
 top
@@ -240,7 +240,7 @@ sandal
 dress
 dress
 sneaker
-dress
+pullover
 sandal
 top
 top
@@ -276,7 +276,7 @@ sneaker
 sneaker
 sandal
 trouser
-top
+pullover
 dress
 top
 sandal
@@ -298,7 +298,7 @@ sneaker
 dress
 trouser
 sneaker
-top
+pullover
 pullover
 trouser
 sneaker
@@ -362,7 +362,7 @@ pullover
 sandal
 pullover
 sneaker
-sneaker
+top
 trouser
 trouser
 dress
@@ -451,7 +451,7 @@ dress
 dress
 dress
 top
-dress
+top
 sneaker
 top
 sandal
@@ -487,10 +487,10 @@ trouser
 dress
 trouser
 trouser
-sneaker
 sandal
 sandal
 sandal
+sandal
 top
 dress
 trouser
@@ -533,7 +533,7 @@ pullover
 sneaker
 dress
 top
-trouser
+dress
 sneaker
 trouser
 dress
